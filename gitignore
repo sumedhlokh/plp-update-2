@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+maze_solver
+maze_solver.exe
+cpp_test
